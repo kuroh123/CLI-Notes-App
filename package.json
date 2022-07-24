@@ -4,8 +4,7 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "test": "jest",
-    "build": "webpack src/app.js -o public/bundle.js"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
